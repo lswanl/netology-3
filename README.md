@@ -93,7 +93,7 @@ on linux_amd64
 $ tfenv use 1.1.9
 Switching default version to v1.1.9
 Switching completed
-terraform --version
+$ terraform --version
 Terraform v1.1.9
 on linux_amd64
 
